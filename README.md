@@ -1,4 +1,4 @@
-# This simple react project allows users to search the various movies in the databse. 
+#### This simple react project allows users to search the various movies in the databse. 
 
 It showcases the dynamic search bar in react and how the results are getting loaded dynamically.
 
